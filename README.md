@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bio to be created
 
 <!--
 **Mizantoro/mizantoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
